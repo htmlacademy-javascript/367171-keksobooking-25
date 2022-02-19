@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Юлия Максимова](https://up.htmlacademy.ru/javascript/25/user/367171).
-* Наставник: `Неизвестно`.
+* Наставник: [Юлия Максимова](https://up.htmlacademy.ru/javascript/25/user/367171).
 
 ---
 
