@@ -17,7 +17,7 @@ const getPrice = (price) => `${price} ₽/ночь`;
 
 const generateIconFeature = (feature) => {
   const icon = createDOMElement('li', 'popup__feature');
-  addClassName(icon, 'popup__feature--' + feature);
+  addClassName(icon, `popup__feature--${feature}`);
   return icon;
 };
 
