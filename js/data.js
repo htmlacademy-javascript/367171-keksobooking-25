@@ -1,4 +1,4 @@
-export const data = [
+export default [
   {
     author: {
       avatar: 'img/avatars/user02.png'
